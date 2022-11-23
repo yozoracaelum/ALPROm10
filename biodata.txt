@@ -1,0 +1,5 @@
+
+Nama: Sora
+Umur: 20
+Alamat: Tokyo 
+------
